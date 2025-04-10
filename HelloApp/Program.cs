@@ -9,6 +9,9 @@ partial class Program
     // DataTypes();
     // ShowNumericTypes();
     // ShowStringType();
-    SalaryCalculator();
+    // SalaryCalculator();
+    // ShowTime();
+    // DaysOfLife();
+    DaysUntilNextBirthday();
   }
 }
