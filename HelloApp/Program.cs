@@ -12,6 +12,14 @@ partial class Program
     // SalaryCalculator();
     // ShowTime();
     // DaysOfLife();
-    DaysUntilNextBirthday();
+    // DaysUntilNextBirthday();
+    // TypeDifference();
+    // HandleNullables();
+    // Operators();
+    // Arrays();
+    // InventoryManager();
+    // ListDictionary();
+    // DataStructures();
+    Generics();
   }
 }
